@@ -1,0 +1,26 @@
+[
+    {
+        "role": "system",
+        "content": "[System Prompt Hidden]"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi! I'm Greg, your AI interviewer. Let's begin! Can you briefly introduce yourself?"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi! I'm Greg, an AI interviewer for Junior Data Scientist roles. I\u2019m excited to chat with you. Could you tell me a bit about your background?"
+    },
+    {
+        "role": "user",
+        "content": "my name is hamza. i am studying bscs and doing AI in my career"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Hamza! I\u2019m Greg. I\u2019ll ask a few quick questions about your tech background. Let\u2019s start with OOP basics:  \n\n1\ufe0f\u20e3 What\u2019s the difference between a class and an object?"
+    }
+]
