@@ -1,0 +1,34 @@
+# Core Framework
+streamlit
+python-dotenv
+
+# AI and LLM Integrations
+openai
+groq
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+# NLP and Deep Learning
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
+transformers
+sentence-transformers
+spacy
+nltk==3.9.1
+language-tool-python
+
+# Data Science and Utilities
+pandas
+numpy
+matplotlib
+scikit-learn
+
+# Download essential NLP models
+# Auto-download NLTK & spaCy models
+# (These lines run commands after installation)
+# -----------------------------------------------
+# python -m nltk.downloader punkt punkt_tab
+# python -m spacy download en_core_web_sm
